@@ -1,7 +1,0 @@
-This is just text file.
-
-App was writing in php, with JS and bootstrap. 
-I am using PostgrSQL DB.
-Payment is via PayPal.
-
-Marko Markovic
