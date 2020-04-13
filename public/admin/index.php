@@ -18,7 +18,7 @@ if(!isset($_SESSION['username']))
 
     // dodavanje stranica na adminu dinamicki
 
-                if($_SERVER['REQUEST_URI'] == "/ecom/public/admin/" || $_SERVER['REQUEST_URI'] == "/ecom/public/admin/index.php")  
+                if($_SERVER['REQUEST_URI'] == "/webshop_watches/public/admin/" || $_SERVER['REQUEST_URI'] == "/webshop_watches/public/admin/index.php")  
                 {
                     include(TEMPLATE_BACK . "/admin_content.php");
                 }
